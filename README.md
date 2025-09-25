@@ -38,7 +38,7 @@ Gemini-inspired AI Chatbot clone that highlights modern engineering practices, R
  ┣ App.jsx            # Root component
  ┗ main.jsx           # Entry point
 
-
+(gemini 1.0 ) api used is deprecated
 
 ## 🛠️ Installation & Usage
 
